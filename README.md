@@ -1,9 +1,13 @@
-# Data Science Job Salaries Analysis 2023
+# Data Science + Machine Learning Bootcamp
+## Repositorio de Examenes de Certificación
 
 ## Descripción
-Intento 1: Este proyecto se centra en el análisis de salarios en el campo de la ciencia de datos para el año 2023. Utilizando un conjunto de datos que incluye información sobre salarios, tipos de empleo, niveles de experiencia y más, se llevan a cabo análisis estadísticos y visualizaciones exploratorias para identificar tendencias y patrones en el mercado laboral de ciencia de datos.
-Intento 2: Este proyecto se centra en el análisis de datos de reservas hoteleras para explorar la satisfacción del cliente en la industria. Utilizando un conjunto de datos que incluye información sobre reservas, tipos de hotel, tiempos de anticipación (lead time), estados de las reservas y más, se llevan a cabo análisis estadísticos y visualizaciones exploratorias para identificar patrones y tendencias en el comportamiento de las reservas y características de los huéspedes.
-
+* DS_Fundamentals
+1. Intento 1: Este proyecto se centra en el análisis de salarios en el campo de la ciencia de datos para el año 2023. Utilizando un conjunto de datos que incluye información sobre salarios, tipos de empleo, niveles de experiencia y más, se llevan a cabo análisis estadísticos y visualizaciones exploratorias para identificar tendencias y patrones en el mercado laboral de ciencia de datos.
+2. Intento 2: Este proyecto se centra en el análisis de datos de reservas hoteleras para explorar la satisfacción del cliente en la industria. Utilizando un conjunto de datos que incluye información sobre reservas, tipos de hotel, tiempos de anticipación (lead time), estados de las reservas y más, se llevan a cabo análisis estadísticos y visualizaciones exploratorias para identificar patrones y tendencias en el comportamiento de las reservas y características de los huéspedes.
+3. Intento 3
+* Machine Learning
+1. Intento 1
 ## Contenido
 El repositorio incluye:
 - **`data/`**: Carpeta que contiene el archivo de datos original (`ds_salaries.csv` y `hotel_bookings.csv`).
@@ -12,12 +16,17 @@ El repositorio incluye:
 
 ## Requisitos
 Para ejecutar el análisis, necesitarás tener instalado Python 3 y las siguientes bibliotecas:
-- pandas
 - numpy
+- pandas
 - matplotlib
-- seaborn as sns
+- seaborn
+- scikit-learn
+- catboost
+- lightgbm
+- xgboost
 - json
 - re
+- warning
 
 Puedes instalar las bibliotecas necesarias ejecutando:
 
